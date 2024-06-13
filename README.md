@@ -4,6 +4,9 @@
 
 Code to the reproduce the experiments of the paper "On the Hardness of Probabilistic Neurosymbolic Learning" (ICML 2024).
 
+> [!TIP]
+> If you just want to use WeightME, take a look at [Kompyle](https://github.com/jjcmoon/kompyle).
+
 ## Installation
 
 Install [d4](https://github.com/crillab/d4) and [EvalMaxSAT](https://github.com/FlorentAvellaneda/EvalMaxSAT), for exact compilation and MaxSat solving, respectively.

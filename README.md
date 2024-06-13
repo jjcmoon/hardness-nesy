@@ -62,8 +62,6 @@ python scripts/aggregate_results.py
 
 ## Paper
 
-If you use WeightME in your work, consider citing our paper:
-
 ```
 @inproceedings{maene2024hardness,
   title={On the Hardness of Probabilistic Neurosymbolic Learning},

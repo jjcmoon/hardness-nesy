@@ -1,6 +1,6 @@
 # On the Hardness of Probabilistic Neurosymbolic Learning
 
-[[paper](https://arxiv.org/pdf/2406.04472)]
+[[paper](https://arxiv.org/pdf/2406.04472)][[video](https://www.youtube.com/watch?v=sWJU9dag5i8)]
 
 Code to the reproduce the experiments of the paper "On the Hardness of Probabilistic Neurosymbolic Learning" (ICML 2024).
 

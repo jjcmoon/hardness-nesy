@@ -63,10 +63,16 @@ python scripts/aggregate_results.py
 ## Paper
 
 ```
-@inproceedings{maene2024hardness,
-  title={On the Hardness of Probabilistic Neurosymbolic Learning},
-  author={Maene, Jaron and Derkinderen, Vincent and De Raedt, Luc},
-  booktitle={Proceedings of the 41th International Conference on Machine Learning},
-  year={2024}
+@InProceedings{maene2024hardness,
+  title = 	 {{O}n the {H}ardness of {P}robabilistic {N}eurosymbolic {L}earning},
+  author =       {Maene, Jaron and Derkinderen, Vincent and De Raedt, Luc},
+  booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+  pages = 	 {34203--34218},
+  year = 	 {2024},
+  editor = 	 {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+  volume = 	 {235},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {21--27 Jul},
+  publisher =    {PMLR},
 }
 ```
